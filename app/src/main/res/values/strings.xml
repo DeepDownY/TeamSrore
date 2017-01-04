@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TeamSrore</string>
+    <string name="Team_A">Team A</string>
+    <string name="StarPoint">0</string>
+    <string name="FreeThrow">FreeThrow</string>
+    <string name="TwoPoint">+2 Point</string>
+    <string name="ThreePoint">+3 Point</string>
+    <string name="Reset">Reset</string>
+    <string name="team_b">Team B</string>
+</resources>
